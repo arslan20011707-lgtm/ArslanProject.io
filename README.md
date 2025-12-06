@@ -1,2 +1,0 @@
-# ArslanProject.io
-ArslanProject
